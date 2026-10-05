@@ -1,0 +1,6 @@
+{
+  "name": "श्री श्याम कृषि सेवा केंद्र - कृषि एवं फसल सुरक्षा",
+  "description": "श्री श्याम कृषि सेवा केंद्र - स्वामी: कार्तिक गावंडे। किसानों के लिए भरोसेमंद कृषि दवाइयाँ, फसल सुरक्षा उत्पाद एवं परामर्श।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
